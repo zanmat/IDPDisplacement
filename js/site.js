@@ -1,13 +1,13 @@
 //configuration object
 
 var config = {
-    title:"Vanuatu Cyclone Pam 3W",
-    description:"<p>Click the graphs or map to interact.<br />Date: 07/05/2015 - Contact: <a href='https://twitter.com/Simon_B_Johnson' target='_blank'>Simon Johnson</a><br />Source: <a href='https://data.hdx.rwlabs.org/dataset/who-is-doing-what-where-in-vanuatu-tropical-cyclone-pam' target='_blank'>Vanuatu Humanitarian Team</a></p>",
+    title:"Northern Syria CCCM Cluster: IDP Displacements",
+    description:"<p>Click the graphs or map to interact.<br />Date: 28/11/2016 <br />Source: CCCM Cluster Member Agencies</p>",
     data:"data/data4.json",
     whoFieldName:"F_Subdistrict",
     whatFieldName:"Nov_Change",
-    whereFieldName:"T_Subdistrict",
-    statusFieldName:"T_Subdistrict",
+    whereFieldName:"T_Subdistrict", //map
+    statusFieldName:"T_Subdistrict", //bars
     geo:"data/syria.geojson",
     joinAttribute:"NAM_EN_REF",
     colors:['#81d4fa','#4fc3f7','#29b6f6','#03a9f4','#039be5','#0288d1','#0277bd','#01579b']
@@ -34,13 +34,13 @@ function generate3WComponent(config,data,geom){
     var whereDimension = cf.dimension(function(d){ return d[config.whereFieldName]; });
     var statusDimension = cf.dimension(function(d){ return d[config.statusFieldName]; });
 
-    var whoGroup = whoDimension.group();
+    var whoGroup = whoDimension.group().reduceSum(function(d) {return d.Nov_Change ;});
     var whatGroup = whatDimension.group();
-    var whereGroup = whereDimension.group();
-    var statusGroup = statusDimension.group();
+    var whereGroup = whereDimension.group().reduceSum(function(d) {return d.Nov_Change ;});
+    var statusGroup = statusDimension.group().reduceSum(function(d) {return d.Nov_Change ;});
     var all = cf.groupAll();
 
-    whoChart.width($('#hdx-3W-who').width()).height(510)
+    whoChart.width($('#hdx-3W-who').width()).height(440)
             .dimension(whoDimension)
             .group(whoGroup)
             .elasticX(true)
@@ -66,7 +66,7 @@ function generate3WComponent(config,data,geom){
             .colorAccessor(function(d, i){return 3;})
             .xAxis().ticks(5);
     
-    statusChart.width($('#hdx-3W-status').width()).height(160)
+    statusChart.width($('#hdx-3W-status').width()).height(510)
             .dimension(statusDimension)
             .group(statusGroup)
             .elasticX(true)
@@ -86,8 +86,8 @@ function generate3WComponent(config,data,geom){
     whereChart.width($('#hxd-3W-where').width()).height(400)
             .dimension(whereDimension)
             .group(whereGroup)
-            .center([-17.050,168.3000])
-            .zoom(6)    
+            .center([36, 38])
+            .zoom(7)    
             .geojson(geom)
             .colors(['#CCCCCC', config.colors[3]])
             .colorDomain([0, 1])
@@ -111,7 +111,7 @@ function generate3WComponent(config,data,geom){
         .attr('text-anchor', 'middle')
         .attr('x', $('#hdx-3W-who').width()/2)
         .attr('y', 510)
-        .text('Activities');
+        .text('XXX1');
 
     var g = d3.selectAll('#hdx-3W-what').select('svg').append('g');
     
@@ -120,7 +120,7 @@ function generate3WComponent(config,data,geom){
         .attr('text-anchor', 'middle')
         .attr('x', $('#hdx-3W-what').width()/2)
         .attr('y', 250)
-        .text('Activities');
+        .text('XXX2');
 
     var g = d3.selectAll('#hdx-3W-status').select('svg').append('g');
 
@@ -129,7 +129,7 @@ function generate3WComponent(config,data,geom){
         .attr('text-anchor', 'middle')
         .attr('x', $('#hdx-3W-status').width()/2)
         .attr('y', 160)
-        .text('Activities'); 
+        .text(''); 
 
 }
 
