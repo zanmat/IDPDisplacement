@@ -4,12 +4,12 @@ var config = {
     title:"Northern Syria CCCM Cluster: IDP Displacements",
     description:"<p>Click the graphs or map to interact.<br />Date: 28/11/2016 <br />Source: CCCM Cluster Member Agencies</p>",
     data:"data/data4.json",
-    whoFieldName:"F_SubDistrict PCODE",
+    whoFieldName:"F_Subdistrict",
     whatFieldName:"Nov_Change",
-    whereFieldName:"T_SubDictrict PCODE", //map
-    statusFieldName:"T_SubDictrict PCODE", //bars
+    whereFieldName:"T_Subdistrict", //map
+    statusFieldName:"T_Subdistrict", //bars
     geo:"data/syria.geojson",
-    joinAttribute:"PCODE",
+    joinAttribute:"NAM_EN_REF",
     colors:['#81d4fa','#4fc3f7','#29b6f6','#03a9f4','#039be5','#0288d1','#0277bd','#01579b']
 };
 
@@ -129,7 +129,7 @@ function generate3WComponent(config,data,geom){
         .attr('text-anchor', 'middle')
         .attr('x', $('#hdx-3W-status').width()/2)
         .attr('y', 160)
-        .text('XXX3'); 
+        .text(''); 
 
 }
 
