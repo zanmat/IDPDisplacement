@@ -8,7 +8,7 @@ var config = {
     whatFieldName:"Nov_Change",
     whereFieldName:"T_Subdistrict", //map
     statusFieldName:"T_Subdistrict", //bars
-    geo:"data/syria.geojson",
+    geo:"data/syria2.geojson",
     joinAttribute:"NAM_EN_REF",
     colors:['#81d4fa','#4fc3f7','#29b6f6','#03a9f4','#039be5','#0288d1','#0277bd','#01579b']
 };
