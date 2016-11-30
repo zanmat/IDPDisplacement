@@ -10,7 +10,7 @@ var config = {
     statusFieldName:"T_Subdistrict", //bars
     geo:"data/syria2.geojson",
     joinAttribute:"NAM_EN_REF",
-    colors:['#81d4fa','#4fc3f7','#29b6f6','#03a9f4','#039be5','#0288d1','#0277bd','#01579b']
+    colors:['#fdae6b','#fff5f0','#fee0d2','#fcbba1','#fc9272','#fb6a4a','#ef3b2c','#cb181d','#99000d']
 };
 
 //function to generate the 3W component
@@ -50,7 +50,7 @@ function generate3WComponent(config,data,geom){
             .labelOffsetY(13)
             .colors(config.colors)
             .colorDomain([0,7])
-            .colorAccessor(function(d, i){return 3;})
+            .colorAccessor(function(d, i){return 0;})
             .xAxis().ticks(5);
 
     whatChart.width($('#hdx-3W-what').width()).height(250)
@@ -63,7 +63,7 @@ function generate3WComponent(config,data,geom){
             .labelOffsetY(13)
             .colors(config.colors)
             .colorDomain([0,7])
-            .colorAccessor(function(d, i){return 3;})
+            .colorAccessor(function(d, i){return 0;})
             .xAxis().ticks(5);
     
     statusChart.width($('#hdx-3W-status').width()).height(510)
@@ -76,7 +76,7 @@ function generate3WComponent(config,data,geom){
             .labelOffsetY(13)
             .colors(config.colors)
             .colorDomain([0,7])
-            .colorAccessor(function(d, i){return 3;})
+            .colorAccessor(function(d, i){return 6;})
             .xAxis().ticks(5);    
 
     dc.dataCount('#count-info')
@@ -89,12 +89,17 @@ function generate3WComponent(config,data,geom){
             .center([36, 38])
             .zoom(7)    
             .geojson(geom)
-            .colors(['#CCCCCC', config.colors[3]])
-            .colorDomain([0, 1])
+            .colors(['#CCCCCC', config.colors[1],config.colors[3], config.colors[6]])
+            .colorDomain([0, 1, 2, 3])
             .colorAccessor(function (d) {
-                if(d>0){
+                if(d>3000){
+                    return 3;
+                } else if (d>1000) {
+                    return 2;
+                } else if (d>1) {
                     return 1;
-                } else {
+                }
+                    else {
                     return 0;
                 }
             })           

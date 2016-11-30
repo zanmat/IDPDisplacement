@@ -1,746 +1,1044 @@
 [
   {
+    "F_Governorate": "Aleppo",
     "F_Subdistrict": "Daret Azza",
+    "T_Governorate": "Idleb",
     "T_Subdistrict": "Dana",
     "Nov_Change": 30
   },
   {
+    "F_Governorate": "Hama",
     "F_Subdistrict": "Suran - Hama",
+    "T_Governorate": "Idleb",
     "T_Subdistrict": "Ehsem",
     "Nov_Change": 90
   },
   {
+    "F_Governorate": "Aleppo",
     "F_Subdistrict": "Atareb",
+    "T_Governorate": "Idleb",
     "T_Subdistrict": "Harim",
     "Nov_Change": 250
   },
   {
+    "F_Governorate": "Aleppo",
     "F_Subdistrict": "Atareb",
+    "T_Governorate": "Idleb",
     "T_Subdistrict": "Qourqeena",
     "Nov_Change": 875
   },
   {
+    "F_Governorate": "Aleppo",
     "F_Subdistrict": "Atareb",
+    "T_Governorate": "Idleb",
     "T_Subdistrict": "Maaret Tamsrin",
     "Nov_Change": 1250
   },
   {
+    "F_Governorate": "Ar-Raqqa",
     "F_Subdistrict": "Ein Issa",
+    "T_Governorate": "Aleppo",
     "T_Subdistrict": "Jarablus",
     "Nov_Change": 600
   },
   {
+    "F_Governorate": "Ar-Raqqa",
     "F_Subdistrict": "Ein Issa",
+    "T_Governorate": "Aleppo",
     "T_Subdistrict": "Jarablus",
     "Nov_Change": 90
   },
   {
+    "F_Governorate": "Ar-Raqqa",
     "F_Subdistrict": "Ein Issa",
+    "T_Governorate": "Aleppo",
     "T_Subdistrict": "Jarablus",
     "Nov_Change": 120
   },
   {
+    "F_Governorate": "Ar-Raqqa",
     "F_Subdistrict": "Ein Issa",
+    "T_Governorate": "Aleppo",
     "T_Subdistrict": "Jarablus",
     "Nov_Change": 120
   },
   {
+    "F_Governorate": "Ar-Raqqa",
     "F_Subdistrict": "Ein Issa",
+    "T_Governorate": "Aleppo",
     "T_Subdistrict": "Jarablus",
     "Nov_Change": 120
   },
   {
+    "F_Governorate": "Ar-Raqqa",
     "F_Subdistrict": "Ein Issa",
+    "T_Governorate": "Aleppo",
     "T_Subdistrict": "Jarablus",
     "Nov_Change": 120
   },
   {
+    "F_Governorate": "Ar-Raqqa",
     "F_Subdistrict": "Ein Issa",
+    "T_Governorate": "Aleppo",
     "T_Subdistrict": "Jarablus",
     "Nov_Change": 120
   },
   {
+    "F_Governorate": "Ar-Raqqa",
     "F_Subdistrict": "Ar-Raqqa",
+    "T_Governorate": "Aleppo",
     "T_Subdistrict": "Menbij",
     "Nov_Change": 1080
   },
   {
+    "F_Governorate": "Ar-Raqqa",
     "F_Subdistrict": "Ein Issa",
+    "T_Governorate": "Ar-Raqqa",
     "T_Subdistrict": "Ein Issa",
     "Nov_Change": 72
   },
   {
+    "F_Governorate": "Ar-Raqqa",
     "F_Subdistrict": "Ar-Raqqa",
+    "T_Governorate": "Ar-Raqqa",
     "T_Subdistrict": "Ein Issa",
     "Nov_Change": 660
   },
   {
+    "F_Governorate": "Ar-Raqqa",
     "F_Subdistrict": "Ein Issa",
+    "T_Governorate": "Ar-Raqqa",
     "T_Subdistrict": "Ein Issa",
     "Nov_Change": 270
   },
   {
+    "F_Governorate": "Ar-Raqqa",
     "F_Subdistrict": "Ein Issa",
+    "T_Governorate": "Ar-Raqqa",
     "T_Subdistrict": "Ein Issa",
     "Nov_Change": 235
   },
   {
+    "F_Governorate": "Ar-Raqqa",
     "F_Subdistrict": "Ar-Raqqa",
+    "T_Governorate": "Ar-Raqqa",
     "T_Subdistrict": "Suluk",
     "Nov_Change": 120
   },
   {
+    "F_Governorate": "Hama",
     "F_Subdistrict": "Suran - Hama",
+    "T_Governorate": "Hama",
     "T_Subdistrict": "Madiq Castle",
     "Nov_Change": 12
   },
   {
+    "F_Governorate": "Hama",
     "F_Subdistrict": "Muhradah",
+    "T_Governorate": "Hama",
     "T_Subdistrict": "Madiq Castle",
     "Nov_Change": 600
   },
   {
+    "F_Governorate": "Hama",
     "F_Subdistrict": "Suran - Hama",
+    "T_Governorate": "Hama",
     "T_Subdistrict": "Madiq Castle",
     "Nov_Change": 84
   },
   {
+    "F_Governorate": "Hama",
     "F_Subdistrict": "Suran - Hama",
+    "T_Governorate": "Idleb",
     "T_Subdistrict": "Kafr Nobol",
     "Nov_Change": 144
   },
   {
+    "F_Governorate": "Hama",
     "F_Subdistrict": "Muhradah",
+    "T_Governorate": "Idleb",
     "T_Subdistrict": "Kafr Nobol",
     "Nov_Change": 750
   },
   {
+    "F_Governorate": "Hama",
     "F_Subdistrict": "Suran - Hama",
+    "T_Governorate": "Idleb",
     "T_Subdistrict": "Kafr Nobol",
     "Nov_Change": 600
   },
   {
+    "F_Governorate": "Hama",
     "F_Subdistrict": "Muhradah",
+    "T_Governorate": "Idleb",
     "T_Subdistrict": "Khan Shaykun",
     "Nov_Change": 276
   },
   {
+    "F_Governorate": "Hama",
     "F_Subdistrict": "Suran - Hama",
+    "T_Governorate": "Idleb",
     "T_Subdistrict": "Khan Shaykun",
     "Nov_Change": 400
   },
   {
+    "F_Governorate": "Hama",
     "F_Subdistrict": "Muhradah",
+    "T_Governorate": "Idleb",
     "T_Subdistrict": "Khan Shaykun",
     "Nov_Change": 600
   },
   {
+    "F_Governorate": "Hama",
     "F_Subdistrict": "Suran - Hama",
+    "T_Governorate": "Idleb",
     "T_Subdistrict": "Maarrat An Numan",
     "Nov_Change": 690
   },
   {
+    "F_Governorate": "Hama",
     "F_Subdistrict": "Suran - Hama",
+    "T_Governorate": "Idleb",
     "T_Subdistrict": "Maarrat An Numan",
     "Nov_Change": 84
   },
   {
+    "F_Governorate": "Idleb",
     "F_Subdistrict": "Jisr-Ash-Shugur",
+    "T_Governorate": "Idleb",
     "T_Subdistrict": "Jisr-Ash-Shugur",
     "Nov_Change": 225
   },
   {
+    "F_Governorate": "Idleb",
     "F_Subdistrict": "Jisr-Ash-Shugur",
+    "T_Governorate": "Idleb",
     "T_Subdistrict": "Jisr-Ash-Shugur",
     "Nov_Change": 250
   },
   {
+    "F_Governorate": "Aleppo",
     "F_Subdistrict": "Al Bab",
+    "T_Governorate": "Idleb",
     "T_Subdistrict": "Kafr Nobol",
     "Nov_Change": 75
   },
   {
+    "F_Governorate": "Aleppo",
     "F_Subdistrict": "Ar-Raee",
+    "T_Governorate": "Idleb",
     "T_Subdistrict": "Dana",
     "Nov_Change": 45
   },
   {
+    "F_Governorate": "Aleppo",
     "F_Subdistrict": "Atareb",
+    "T_Governorate": "Aleppo",
     "T_Subdistrict": "Atareb",
     "Nov_Change": 3500
   },
   {
+    "F_Governorate": "Aleppo",
     "F_Subdistrict": "Atareb",
+    "T_Governorate": "Aleppo",
     "T_Subdistrict": "Atareb",
     "Nov_Change": 375
   },
   {
+    "F_Governorate": "Aleppo",
     "F_Subdistrict": "Atareb",
+    "T_Governorate": "Idleb",
     "T_Subdistrict": "Dana",
     "Nov_Change": 500
   },
   {
+    "F_Governorate": "Aleppo",
     "F_Subdistrict": "Atareb",
+    "T_Governorate": "Idleb",
     "T_Subdistrict": "Harim",
     "Nov_Change": 375
   },
   {
+    "F_Governorate": "Aleppo",
     "F_Subdistrict": "Atareb",
+    "T_Governorate": "Aleppo",
     "T_Subdistrict": "Atareb",
     "Nov_Change": 375
   },
   {
+    "F_Governorate": "Aleppo",
     "F_Subdistrict": "Atareb",
+    "T_Governorate": "Idleb",
     "T_Subdistrict": "Dana",
     "Nov_Change": 500
   },
   {
+    "F_Governorate": "Aleppo",
     "F_Subdistrict": "Atareb",
+    "T_Governorate": "Idleb",
     "T_Subdistrict": "Dana",
     "Nov_Change": 350
   },
   {
+    "F_Governorate": "Aleppo",
     "F_Subdistrict": "Atareb",
+    "T_Governorate": "Idleb",
     "T_Subdistrict": "Dana",
     "Nov_Change": 328
   },
   {
+    "F_Governorate": "Aleppo",
     "F_Subdistrict": "Daret Azza",
+    "T_Governorate": "Idleb",
     "T_Subdistrict": "Dana",
     "Nov_Change": 375
   },
   {
+    "F_Governorate": "Aleppo",
     "F_Subdistrict": "Haritan",
+    "T_Governorate": "Idleb",
     "T_Subdistrict": "Maaret Tamsrin",
     "Nov_Change": 97
   },
   {
+    "F_Governorate": "Aleppo",
     "F_Subdistrict": "Jebel Saman",
+    "T_Governorate": "Aleppo",
     "T_Subdistrict": "Daret Azza",
     "Nov_Change": 2250
   },
   {
+    "F_Governorate": "Aleppo",
     "F_Subdistrict": "Jebel Saman",
+    "T_Governorate": "Idleb",
     "T_Subdistrict": "Maaret Tamsrin",
     "Nov_Change": 40
   },
   {
+    "F_Governorate": "Aleppo",
     "F_Subdistrict": "Jebel Saman",
+    "T_Governorate": "Idleb",
     "T_Subdistrict": "Dana",
     "Nov_Change": 500
   },
   {
+    "F_Governorate": "Aleppo",
     "F_Subdistrict": "Jebel Saman",
+    "T_Governorate": "Idleb",
     "T_Subdistrict": "Dana",
     "Nov_Change": 275
   },
   {
+    "F_Governorate": "Aleppo",
     "F_Subdistrict": "Jebel Saman",
+    "T_Governorate": "Idleb",
     "T_Subdistrict": "Harim",
     "Nov_Change": 375
   },
   {
+    "F_Governorate": "Aleppo",
     "F_Subdistrict": "Jebel Saman",
+    "T_Governorate": "Idleb",
     "T_Subdistrict": "Idleb",
     "Nov_Change": 80
   },
   {
+    "F_Governorate": "Ar-Raqqa",
     "F_Subdistrict": "Ar-Raqqa",
+    "T_Governorate": "Idleb",
     "T_Subdistrict": "Dana",
     "Nov_Change": 300
   },
   {
+    "F_Governorate": "Hama",
     "F_Subdistrict": "Tell Salhib",
+    "T_Governorate": "Hama",
     "T_Subdistrict": "Madiq Castle",
     "Nov_Change": 150
   },
   {
+    "F_Governorate": "Hama",
     "F_Subdistrict": "Tell Salhib",
+    "T_Governorate": "Hama",
     "T_Subdistrict": "Madiq Castle",
     "Nov_Change": 180
   },
   {
+    "F_Governorate": "Hama",
     "F_Subdistrict": "Tell Salhib",
+    "T_Governorate": "Hama",
     "T_Subdistrict": "Ziyara",
     "Nov_Change": 54
   },
   {
+    "F_Governorate": "Hama",
     "F_Subdistrict": "Tell Salhib",
+    "T_Governorate": "Idleb",
     "T_Subdistrict": "Kafr Nobol",
     "Nov_Change": 192
   },
   {
+    "F_Governorate": "Hama",
     "F_Subdistrict": "Tell Salhib",
+    "T_Governorate": "Idleb",
     "T_Subdistrict": "Khan Shaykun",
     "Nov_Change": 120
   },
   {
+    "F_Governorate": "Hama",
     "F_Subdistrict": "Tell Salhib",
+    "T_Governorate": "Idleb",
     "T_Subdistrict": "Ariha",
     "Nov_Change": 36
   },
   {
+    "F_Governorate": "Hama",
     "F_Subdistrict": "Tell Salhib",
+    "T_Governorate": "Idleb",
     "T_Subdistrict": "Ehsem",
     "Nov_Change": 90
   },
   {
+    "F_Governorate": "Hama",
     "F_Subdistrict": "Tell Salhib",
+    "T_Governorate": "Idleb",
     "T_Subdistrict": "Saraqab",
     "Nov_Change": 300
   },
   {
+    "F_Governorate": "Hama",
     "F_Subdistrict": "Tell Salhib",
+    "T_Governorate": "Idleb",
     "T_Subdistrict": "Kafr Nobol",
     "Nov_Change": 150
   },
   {
+    "F_Governorate": "Hama",
     "F_Subdistrict": "Suran - Hama",
+    "T_Governorate": "Hama",
     "T_Subdistrict": "Madiq Castle",
     "Nov_Change": 756
   },
   {
+    "F_Governorate": "Hama",
     "F_Subdistrict": "Suran - Hama",
+    "T_Governorate": "Hama",
     "T_Subdistrict": "Madiq Castle",
     "Nov_Change": 210
   },
   {
+    "F_Governorate": "Hama",
     "F_Subdistrict": "Suran - Hama",
+    "T_Governorate": "Hama",
     "T_Subdistrict": "Kafr Zeita",
     "Nov_Change": 270
   },
   {
+    "F_Governorate": "Hama",
     "F_Subdistrict": "Suran - Hama",
+    "T_Governorate": "Idleb",
     "T_Subdistrict": "Bennsh",
     "Nov_Change": 900
   },
   {
+    "F_Governorate": "Hama",
     "F_Subdistrict": "Suran - Hama",
+    "T_Governorate": "Idleb",
     "T_Subdistrict": "Saraqab",
     "Nov_Change": 600
   },
   {
+    "F_Governorate": "Hama",
     "F_Subdistrict": "Suran - Hama",
+    "T_Governorate": "Idleb",
     "T_Subdistrict": "Saraqab",
     "Nov_Change": 246
   },
   {
+    "F_Governorate": "Hama",
     "F_Subdistrict": "Suran - Hama",
+    "T_Governorate": "Idleb",
     "T_Subdistrict": "Sarmin",
     "Nov_Change": 600
   },
   {
+    "F_Governorate": "Hama",
     "F_Subdistrict": "Suran - Hama",
+    "T_Governorate": "Hama",
     "T_Subdistrict": "Madiq Castle",
     "Nov_Change": 66
   },
   {
+    "F_Governorate": "Hama",
     "F_Subdistrict": "Suran - Hama",
+    "T_Governorate": "Hama",
     "T_Subdistrict": "Madiq Castle",
     "Nov_Change": 36
   },
   {
+    "F_Governorate": "Hama",
     "F_Subdistrict": "Suran - Hama",
+    "T_Governorate": "Hama",
     "T_Subdistrict": "Ziyara",
     "Nov_Change": 48
   },
   {
+    "F_Governorate": "Hama",
     "F_Subdistrict": "Suran - Hama",
+    "T_Governorate": "Idleb",
     "T_Subdistrict": "Kafr Nobol",
     "Nov_Change": 270
   },
   {
+    "F_Governorate": "Hama",
     "F_Subdistrict": "Suran - Hama",
+    "T_Governorate": "Idleb",
     "T_Subdistrict": "Kafr Nobol",
     "Nov_Change": 444
   },
   {
+    "F_Governorate": "Hama",
     "F_Subdistrict": "Suran - Hama",
+    "T_Governorate": "Idleb",
     "T_Subdistrict": "Khan Shaykun",
     "Nov_Change": 750
   },
   {
+    "F_Governorate": "Hama",
     "F_Subdistrict": "Suran - Hama",
+    "T_Governorate": "Idleb",
     "T_Subdistrict": "Maarrat An Numan",
     "Nov_Change": 1110
   },
   {
+    "F_Governorate": "Hama",
     "F_Subdistrict": "Suran - Hama",
+    "T_Governorate": "Idleb",
     "T_Subdistrict": "Maarrat An Numan",
     "Nov_Change": 498
   },
   {
+    "F_Governorate": "Hama",
     "F_Subdistrict": "Suran - Hama",
+    "T_Governorate": "Idleb",
     "T_Subdistrict": "Ariha",
     "Nov_Change": 540
   },
   {
+    "F_Governorate": "Hama",
     "F_Subdistrict": "Suran - Hama",
+    "T_Governorate": "Hama",
     "T_Subdistrict": "Madiq Castle",
     "Nov_Change": 270
   },
   {
+    "F_Governorate": "Hama",
     "F_Subdistrict": "Suran - Hama",
+    "T_Governorate": "Hama",
     "T_Subdistrict": "Madiq Castle",
     "Nov_Change": 300
   },
   {
+    "F_Governorate": "Hama",
     "F_Subdistrict": "Suran - Hama",
+    "T_Governorate": "Hama",
     "T_Subdistrict": "Madiq Castle",
     "Nov_Change": 30
   },
   {
+    "F_Governorate": "Hama",
     "F_Subdistrict": "Suran - Hama",
+    "T_Governorate": "Idleb",
     "T_Subdistrict": "Heish",
     "Nov_Change": 144
   },
   {
+    "F_Governorate": "Hama",
     "F_Subdistrict": "Suran - Hama",
+    "T_Governorate": "Idleb",
     "T_Subdistrict": "Heish",
     "Nov_Change": 600
   },
   {
+    "F_Governorate": "Hama",
     "F_Subdistrict": "Suran - Hama",
+    "T_Governorate": "Idleb",
     "T_Subdistrict": "Heish",
     "Nov_Change": 516
   },
   {
+    "F_Governorate": "Hama",
     "F_Subdistrict": "Suran - Hama",
+    "T_Governorate": "Idleb",
     "T_Subdistrict": "Kafr Nobol",
     "Nov_Change": 510
   },
   {
+    "F_Governorate": "Hama",
     "F_Subdistrict": "Suran - Hama",
+    "T_Governorate": "Idleb",
     "T_Subdistrict": "Kafr Nobol",
     "Nov_Change": 66
   },
   {
+    "F_Governorate": "Hama",
     "F_Subdistrict": "Suran - Hama",
+    "T_Governorate": "Idleb",
     "T_Subdistrict": "Khan Shaykun",
     "Nov_Change": 54
   },
   {
+    "F_Governorate": "Hama",
     "F_Subdistrict": "Suran - Hama",
+    "T_Governorate": "Idleb",
     "T_Subdistrict": "Maarrat An Numan",
     "Nov_Change": 300
   },
   {
+    "F_Governorate": "Hama",
     "F_Subdistrict": "Suran - Hama",
+    "T_Governorate": "Idleb",
     "T_Subdistrict": "Ariha",
     "Nov_Change": 132
   },
   {
+    "F_Governorate": "Hama",
     "F_Subdistrict": "Suran - Hama",
+    "T_Governorate": "Idleb",
     "T_Subdistrict": "Idleb",
     "Nov_Change": 630
   },
   {
+    "F_Governorate": "Hama",
     "F_Subdistrict": "Suran - Hama",
+    "T_Governorate": "Idleb",
     "T_Subdistrict": "Idleb",
     "Nov_Change": 564
   },
   {
+    "F_Governorate": "Hama",
     "F_Subdistrict": "Suran - Hama",
+    "T_Governorate": "Idleb",
     "T_Subdistrict": "Saraqab",
     "Nov_Change": 600
   },
   {
+    "F_Governorate": "Hama",
     "F_Subdistrict": "Suran - Hama",
+    "T_Governorate": "Hama",
     "T_Subdistrict": "Madiq Castle",
     "Nov_Change": 48
   },
   {
+    "F_Governorate": "Hama",
     "F_Subdistrict": "Suran - Hama",
+    "T_Governorate": "Hama",
     "T_Subdistrict": "Ziyara",
     "Nov_Change": 90
   },
   {
+    "F_Governorate": "Hama",
     "F_Subdistrict": "Suran - Hama",
+    "T_Governorate": "Hama",
     "T_Subdistrict": "Ziyara",
     "Nov_Change": 60
   },
   {
+    "F_Governorate": "Hama",
     "F_Subdistrict": "Suran - Hama",
+    "T_Governorate": "Hama",
     "T_Subdistrict": "Ziyara",
     "Nov_Change": 36
   },
   {
+    "F_Governorate": "Hama",
     "F_Subdistrict": "Suran - Hama",
+    "T_Governorate": "Hama",
     "T_Subdistrict": "Hama",
     "Nov_Change": 90
   },
   {
+    "F_Governorate": "Hama",
     "F_Subdistrict": "Suran - Hama",
+    "T_Governorate": "Idleb",
     "T_Subdistrict": "Kafr Nobol",
     "Nov_Change": 100
   },
   {
+    "F_Governorate": "Hama",
     "F_Subdistrict": "Suran - Hama",
+    "T_Governorate": "Idleb",
     "T_Subdistrict": "Kafr Nobol",
     "Nov_Change": 48
   },
   {
+    "F_Governorate": "Hama",
     "F_Subdistrict": "Suran - Hama",
+    "T_Governorate": "Idleb",
     "T_Subdistrict": "Kafr Nobol",
     "Nov_Change": 138
   },
   {
+    "F_Governorate": "Hama",
     "F_Subdistrict": "Suran - Hama",
+    "T_Governorate": "Idleb",
     "T_Subdistrict": "Kafr Nobol",
     "Nov_Change": 300
   },
   {
+    "F_Governorate": "Hama",
     "F_Subdistrict": "Suran - Hama",
+    "T_Governorate": "Idleb",
     "T_Subdistrict": "Kafr Nobol",
     "Nov_Change": 66
   },
   {
+    "F_Governorate": "Hama",
     "F_Subdistrict": "Suran - Hama",
+    "T_Governorate": "Idleb",
     "T_Subdistrict": "Khan Shaykun",
     "Nov_Change": 240
   },
   {
+    "F_Governorate": "Hama",
     "F_Subdistrict": "Suran - Hama",
+    "T_Governorate": "Idleb",
     "T_Subdistrict": "Khan Shaykun",
     "Nov_Change": 500
   },
   {
+    "F_Governorate": "Hama",
     "F_Subdistrict": "Suran - Hama",
+    "T_Governorate": "Idleb",
     "T_Subdistrict": "Tamanaah",
     "Nov_Change": 750
   },
   {
+    "F_Governorate": "Hama",
     "F_Subdistrict": "Suran - Hama",
+    "T_Governorate": "Idleb",
     "T_Subdistrict": "Tamanaah",
     "Nov_Change": 250
   },
   {
+    "F_Governorate": "Hama",
     "F_Subdistrict": "Suran - Hama",
+    "T_Governorate": "Idleb",
     "T_Subdistrict": "Tamanaah",
     "Nov_Change": 200
   },
   {
+    "F_Governorate": "Hama",
     "F_Subdistrict": "Suran - Hama",
+    "T_Governorate": "Idleb",
     "T_Subdistrict": "Tamanaah",
     "Nov_Change": 250
   },
   {
+    "F_Governorate": "Hama",
     "F_Subdistrict": "Suran - Hama",
+    "T_Governorate": "Idleb",
     "T_Subdistrict": "Ariha",
     "Nov_Change": 24
   },
   {
+    "F_Governorate": "Hama",
     "F_Subdistrict": "Suran - Hama",
+    "T_Governorate": "Idleb",
     "T_Subdistrict": "Ariha",
     "Nov_Change": 66
   },
   {
+    "F_Governorate": "Hama",
     "F_Subdistrict": "Suran - Hama",
+    "T_Governorate": "Idleb",
     "T_Subdistrict": "Ehsem",
     "Nov_Change": 72
   },
   {
+    "F_Governorate": "Hama",
     "F_Subdistrict": "Suran - Hama",
+    "T_Governorate": "Idleb",
     "T_Subdistrict": "Ehsem",
     "Nov_Change": 30
   },
   {
+    "F_Governorate": "Hama",
     "F_Subdistrict": "Suran - Hama",
+    "T_Governorate": "Idleb",
     "T_Subdistrict": "Ehsem",
     "Nov_Change": 78
   },
   {
+    "F_Governorate": "Hama",
     "F_Subdistrict": "Suran - Hama",
+    "T_Governorate": "Idleb",
     "T_Subdistrict": "Qourqeena",
     "Nov_Change": 125
   },
   {
+    "F_Governorate": "Hama",
     "F_Subdistrict": "Suran - Hama",
+    "T_Governorate": "Idleb",
     "T_Subdistrict": "Idleb",
     "Nov_Change": 390
   },
   {
+    "F_Governorate": "Hama",
     "F_Subdistrict": "Suran - Hama",
+    "T_Governorate": "Idleb",
     "T_Subdistrict": "Saraqab",
     "Nov_Change": 210
   },
   {
+    "F_Governorate": "Hama",
     "F_Subdistrict": "Suran - Hama",
+    "T_Governorate": "Hama",
     "T_Subdistrict": "Madiq Castle",
     "Nov_Change": 150
   },
   {
+    "F_Governorate": "Hama",
     "F_Subdistrict": "Suran - Hama",
+    "T_Governorate": "Hama",
     "T_Subdistrict": "Madiq Castle",
     "Nov_Change": 84
   },
   {
+    "F_Governorate": "Hama",
     "F_Subdistrict": "Suran - Hama",
+    "T_Governorate": "Hama",
     "T_Subdistrict": "Ziyara",
     "Nov_Change": 270
   },
   {
+    "F_Governorate": "Hama",
     "F_Subdistrict": "Suran - Hama",
+    "T_Governorate": "Hama",
     "T_Subdistrict": "Ziyara",
     "Nov_Change": 300
   },
   {
+    "F_Governorate": "Hama",
     "F_Subdistrict": "Suran - Hama",
+    "T_Governorate": "Idleb",
     "T_Subdistrict": "Kafr Nobol",
     "Nov_Change": 100
   },
   {
+    "F_Governorate": "Hama",
     "F_Subdistrict": "Suran - Hama",
+    "T_Governorate": "Idleb",
     "T_Subdistrict": "Kafr Nobol",
     "Nov_Change": 60
   },
   {
+    "F_Governorate": "Hama",
     "F_Subdistrict": "Suran - Hama",
+    "T_Governorate": "Idleb",
     "T_Subdistrict": "Kafr Nobol",
     "Nov_Change": 330
   },
   {
+    "F_Governorate": "Hama",
     "F_Subdistrict": "Suran - Hama",
+    "T_Governorate": "Idleb",
     "T_Subdistrict": "Kafr Nobol",
     "Nov_Change": 200
   },
   {
+    "F_Governorate": "Hama",
     "F_Subdistrict": "Suran - Hama",
+    "T_Governorate": "Idleb",
     "T_Subdistrict": "Maarrat An Numan",
     "Nov_Change": 210
   },
   {
+    "F_Governorate": "Hama",
     "F_Subdistrict": "Suran - Hama",
+    "T_Governorate": "Idleb",
     "T_Subdistrict": "Tamanaah",
     "Nov_Change": 625
   },
   {
+    "F_Governorate": "Hama",
     "F_Subdistrict": "Suran - Hama",
+    "T_Governorate": "Idleb",
     "T_Subdistrict": "Tamanaah",
     "Nov_Change": 100
   },
   {
+    "F_Governorate": "Hama",
     "F_Subdistrict": "Suran - Hama",
+    "T_Governorate": "Idleb",
     "T_Subdistrict": "Tamanaah",
     "Nov_Change": 875
   },
   {
+    "F_Governorate": "Hama",
     "F_Subdistrict": "Suran - Hama",
+    "T_Governorate": "Idleb",
     "T_Subdistrict": "Ariha",
     "Nov_Change": 54
   },
   {
+    "F_Governorate": "Hama",
     "F_Subdistrict": "Suran - Hama",
+    "T_Governorate": "Idleb",
     "T_Subdistrict": "Ariha",
     "Nov_Change": 90
   },
   {
+    "F_Governorate": "Hama",
     "F_Subdistrict": "Suran - Hama",
+    "T_Governorate": "Idleb",
     "T_Subdistrict": "Ariha",
     "Nov_Change": 192
   },
   {
+    "F_Governorate": "Hama",
     "F_Subdistrict": "Suran - Hama",
+    "T_Governorate": "Idleb",
     "T_Subdistrict": "Ehsem",
     "Nov_Change": 90
   },
   {
+    "F_Governorate": "Hama",
     "F_Subdistrict": "Suran - Hama",
+    "T_Governorate": "Idleb",
     "T_Subdistrict": "Ehsem",
     "Nov_Change": 132
   },
   {
+    "F_Governorate": "Hama",
     "F_Subdistrict": "Suran - Hama",
+    "T_Governorate": "Idleb",
     "T_Subdistrict": "Ehsem",
     "Nov_Change": 186
   },
   {
+    "F_Governorate": "Hama",
     "F_Subdistrict": "Suran - Hama",
+    "T_Governorate": "Idleb",
     "T_Subdistrict": "Ehsem",
     "Nov_Change": 180
   },
   {
+    "F_Governorate": "Hama",
     "F_Subdistrict": "Suran - Hama",
+    "T_Governorate": "Idleb",
     "T_Subdistrict": "Qourqeena",
     "Nov_Change": 125
   },
   {
+    "F_Governorate": "Hama",
     "F_Subdistrict": "Hama",
+    "T_Governorate": "Idleb",
     "T_Subdistrict": "Maarrat An Numan",
     "Nov_Change": 150
   },
   {
+    "F_Governorate": "Hama",
     "F_Subdistrict": "Kafr Zeita",
+    "T_Governorate": "Hama",
     "T_Subdistrict": "Ziyara",
     "Nov_Change": 72
   },
   {
+    "F_Governorate": "Hama",
     "F_Subdistrict": "Kafr Zeita",
+    "T_Governorate": "Hama",
     "T_Subdistrict": "Kafr Zeita",
     "Nov_Change": 240
   },
   {
+    "F_Governorate": "Hama",
     "F_Subdistrict": "Kafr Zeita",
+    "T_Governorate": "Idleb",
     "T_Subdistrict": "Ariha",
     "Nov_Change": 150
   },
   {
+    "F_Governorate": "Hama",
     "F_Subdistrict": "Kafr Zeita",
+    "T_Governorate": "Idleb",
     "T_Subdistrict": "Ehsem",
     "Nov_Change": 60
   },
   {
+    "F_Governorate": "Hama",
     "F_Subdistrict": "Kafr Zeita",
+    "T_Governorate": "Idleb",
     "T_Subdistrict": "Ehsem",
     "Nov_Change": 330
   },
   {
+    "F_Governorate": "Hama",
     "F_Subdistrict": "Muhradah",
+    "T_Governorate": "Hama",
     "T_Subdistrict": "Madiq Castle",
     "Nov_Change": 48
   },
   {
+    "F_Governorate": "Hama",
     "F_Subdistrict": "Muhradah",
+    "T_Governorate": "Idleb",
     "T_Subdistrict": "Kafr Nobol",
     "Nov_Change": 175
   },
   {
+    "F_Governorate": "Hama",
     "F_Subdistrict": "Muhradah",
+    "T_Governorate": "Idleb",
     "T_Subdistrict": "Kafr Nobol",
     "Nov_Change": 30
   },
   {
+    "F_Governorate": "Hama",
     "F_Subdistrict": "Muhradah",
+    "T_Governorate": "Idleb",
     "T_Subdistrict": "Maarrat An Numan",
     "Nov_Change": 540
   },
   {
+    "F_Governorate": "Hama",
     "F_Subdistrict": "Muhradah",
+    "T_Governorate": "Idleb",
     "T_Subdistrict": "Tamanaah",
     "Nov_Change": 625
   },
   {
+    "F_Governorate": "Hama",
     "F_Subdistrict": "Muhradah",
+    "T_Governorate": "Idleb",
     "T_Subdistrict": "Tamanaah",
     "Nov_Change": 250
   },
   {
+    "F_Governorate": "Hama",
     "F_Subdistrict": "Muhradah",
+    "T_Governorate": "Idleb",
     "T_Subdistrict": "Tamanaah",
     "Nov_Change": 875
   },
   {
+    "F_Governorate": "Hama",
     "F_Subdistrict": "Muhradah",
+    "T_Governorate": "Idleb",
     "T_Subdistrict": "Saraqab",
     "Nov_Change": 270
   },
   {
+    "F_Governorate": "Rural Damascus",
     "F_Subdistrict": "Markaz Darayya",
+    "T_Governorate": "Idleb",
     "T_Subdistrict": "Dana",
     "Nov_Change": 61
   },
   {
+    "F_Governorate": "Rural Damascus",
     "F_Subdistrict": "Qudsiya",
+    "T_Governorate": "Idleb",
     "T_Subdistrict": "Maaret Tamsrin",
     "Nov_Change": 53
   }
