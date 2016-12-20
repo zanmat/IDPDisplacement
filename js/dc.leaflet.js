@@ -632,16 +632,16 @@ dc.leafletChoroplethChart = function (parent, chartGroup) {
                 if (isSelectedGeo(v.d)) {
                     options.fillColor = _chart.getColor(v.d.value, v.i);
                     options.opacity = 0.8;
-                    options.fillOpacity = 1;                                
+                    options.fillOpacity = .5;                                
                 } else {
                     options.fillColor = _chart.getColor(0, v.i);
                     options.opacity = 0.8;
-                    options.fillOpacity = 1;                                
+                    options.fillOpacity = .5;                                
                 }
             } else {
                 options.fillColor = _chart.getColor(v.d.value, v.i);
                 options.opacity = 0.8;
-                options.fillOpacity = 1;                 
+                options.fillOpacity = .8;                 
             }           
         }
         return options;

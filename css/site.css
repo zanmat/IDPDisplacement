@@ -16,15 +16,29 @@
 }
 
 #hdx-3W-where {
-    height:470px;
+    height:90%;
     width:100%;
 }
+
+#hdx-3W-where2 {
+    height:90%;
+    width:100%;
+}
+
 
 .hdx-3w-viz{
     width:100%;
 }
 
+.hdx-3w-viz2{
+    width:100%;
+}
+
 #wheretitle{
+    padding-bottom:12px;
+}
+
+#wheretitle2{
     padding-bottom:12px;
 }
 
@@ -46,5 +60,13 @@
 }
 
 .colheight{
-    height:550px;
+    height:50%;
+}
+
+.colheightbars{
+    height:30%;
+}
+
+.colheightintro{
+    height:7%;
 }

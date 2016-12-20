@@ -1,6 +1,6 @@
 <html>
     <head>
-        <title>IDP Displacement Dashboard</title>
+        <title>Northern Syria Displacement Tracking</title>
         <meta charset="UTF-8">
         <meta name="viewport" content="width=device-width, initial-scale=1.0">
         <link rel="stylesheet" href="css/bootstrap.min.css">
@@ -20,31 +20,52 @@
         <div class="container">
                 <div id="header" class="row">
                     <h2 id="title"></h2>
-                    <div class="col-md-8">  
-                        <p>Number of newly reported IDPs between October 31st and November 15th, 2016. </p>
+                    <div class="col-md-9 colheightintro">  
+                        
+                        <p id="description"></p>
+                        
+                        <p>
+                            Click the graphs or map to interact. Multiple Subdistricts can be selected by clicking.<br> To return to default, press the 'Reset All' button on the top right. The charts display the top 5 results and update based on selection.  <br> <Date: 30 /11/2016   Source: CCCM Cluster Member Agencies </p>
                     </div>
-                    <div class="col-md-1">
-                        <a class="reset btn btn-primary btn-sm" id="reset" href="javascript:dc.filterAll();dc.redrawAll();">Reset All</a>
-                    </div>                            
-                    <div id="count-info" class="col-md-3">
+                                              
+                    <div id="count-info" class="col-md-3 colheightintro" align="right">
+                        <a class="reset btn btn-primary btn-sm" id="reset" href="javascript:dc.filterAll();dc.redrawAll();">Reset All</a><br>
                         <span class="filter-count "></span> selected out of <span class="total-count "></span> records.
                     </div>                   
                 </div>
                 <div class="row">
-                    <div class="col-md-4 colheight">                        
+                    <!-- <div class="col-md-4 colheight">                        
                         <p id="description"></p>
-                       <!-- <div class="hdx-3w-viz" id="hdx-3W-what">
+                       <div class="hdx-3w-viz" id="hdx-3W-what">
                             <p>What</p>
-                        </div> -->
+                        </div> 
                        <div id="hdx-3W-who" class="hdx-3w-viz"><p>Subdistrict of departure</p></div>                      
                     </div>
                     <div class="col-md-4 colheight"> <div class="hdx-3w-viz" id="hdx-3W-status">
                             <p>Subdistrict of destination</p>
+                        </div>    </div> 
+                    </div>--> 
+                    
+                    <div class="col-md-6 colheight"><p id="wheretitle2">Where (departure)</p><div  class="hdx-3w-viz" id="hdx-3W-where2"></div></div> 
+                  <div class="col-md-6 colheight"><p id="wheretitle">Where (destination)</p><div  class="hdx-3w-viz" id="hdx-3W-where"></div></div> 
+            </div>
+            
+             <div class="row">
+                    <div class="col-md-6 colheightbars">                        
+                        <!--  <p id="description"></p>
+                      <div class="hdx-3w-viz" id="hdx-3W-what">
+                            <p>What</p>
+                        </div> -->
+                       <div id="hdx-3W-who" class="hdx-3w-viz"></div>                      
+                    </div>
+                 
+                    <div class="col-md-6 colheightbars"> <div class="hdx-3w-viz" id="hdx-3W-status">
+                            
                         </div>    </div>
-                    <div class="col-md-4 colheight"><p id="wheretitle">Where (destination)</p><div  class="hdx-3w-viz" id="hdx-3W-where"></div></div> 
+                    <!--  <div class="col-md-4 colheight"><p id="wheretitle">Where (destination)</p><div  class="hdx-3w-viz" id="hdx-3W-where"></div></div> -->
                 </div>
             <div class="row" align="right">
-            This dashboard was created on the model of Simon B. Johnson's <a href="http://simonbjohnson.github.io/cyclone-pam-3w/">Vanuatu Cyclone Pam 3W map </a>. 
+                <font size="1"> This dashboard was created on the model of Simon B. Johnson's <a href="http://simonbjohnson.github.io/cyclone-pam-3w/">Vanuatu Cyclone Pam 3W map </a>. </font>
             </div>
         </div>
         <script src="js/site.js"></script> 
